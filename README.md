@@ -2,7 +2,7 @@
 
 __Ability for the database to automatically scale-up its compute capacity, without requiring human intervention, in response to increased database usage__
 
-__SA Maintainer__: [Blake Schoppa](mailto:blake.schoppa@mongodb.com) <br/>
+
 __Time to setup__: 30 mins <br/>
 __Time to execute__: 1 hour &nbsp;&nbsp;_(to scale up - plus 3 days if also showing scale down)_ <br/>
 
